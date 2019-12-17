@@ -1,29 +1,10 @@
-# picture
+# 项目演示
 
-## Project setup
+![项目演示](https://raw.githubusercontent.com/Aliceco/vue-signature/master/public/demo/XYgXlefsGa.gif)
+
+### 运行项目
 ```
 yarn install
+yarn serve
 ```
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
-
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
